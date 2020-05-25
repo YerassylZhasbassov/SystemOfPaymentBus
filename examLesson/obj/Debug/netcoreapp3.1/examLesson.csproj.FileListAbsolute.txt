@@ -1,0 +1,4 @@
+C:\Users\ASUS\source\repos\examLesson\examLesson\obj\Debug\netcoreapp3.1\examLesson.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\examLesson\examLesson\obj\Debug\netcoreapp3.1\examLesson.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\examLesson\examLesson\obj\Debug\netcoreapp3.1\examLesson.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\examLesson\examLesson\obj\Debug\netcoreapp3.1\examLesson.AssemblyInfo.cs
